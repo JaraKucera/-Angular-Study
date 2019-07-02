@@ -1,5 +1,5 @@
 # AngularStudy
-
+Study of Angular 7
 # AngularBase
 A basic Anuglar project that was used to study the basics of Angular focusing on 
 Components,
